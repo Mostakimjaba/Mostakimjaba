@@ -31,13 +31,15 @@ A proactive BSc in CSE student at the Hajee Mohammad Danesh Science and Technolo
      
 ## Projects:
 •	Email Spam Classification Using Bangla Dataset (Maching Learning Based)
-•	Online Booking & Maintaining System (Web Based)	•	BMI Calculator (Java)
+•	Online Booking & Maintaining System (Web Based)	
+•	BMI Calculator (Java)
 •	Student Information & Maintaining System (Java)
 •	Wireless Notice Board (IOT)
 
 # Volunteering
-•	Class Representative (CR) of CSE Department & Assistant IT Secretary at CSE club
-•	Associate member at HSTU Model United Nations Association
+•	Class Representative (CR) of CSE Department
+•	Assistant IT Secretary at CSE club
+•	Associate member at HSTU Model United Nations Association (MUNA)
 •	Works at Co-convener at BASIS Student’s Forum HSTU chapter
 
 # Achievements
