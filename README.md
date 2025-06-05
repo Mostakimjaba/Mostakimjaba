@@ -9,7 +9,7 @@ A proactive BSc in CSE student at the Hajee Mohammad Danesh Science and Technolo
       CGPA: 3.619 Out of 4.00
   
 - ✅ HSC  .................................................................................... 2016
-      Cantonment Public School and College, Rangpur
+-     Cantonment Public School and College, Rangpur
       Group: Science
       GPA: 5.00 Out of 5.00
 	
@@ -19,15 +19,15 @@ A proactive BSc in CSE student at the Hajee Mohammad Danesh Science and Technolo
       GPA: 5.00 Out of 5.00
 
 # IT Skills
-•	 Programming Languages: C/C++, Java, Python, SQL, HTML, CSS,  JavaScript, Maching Learning
-•	 Areas of Interests: Algorithms, Data Structure, Database,  PHP, Bootstrap, Web Designing
-•	 Database Knowledge: SQL, MySQL, Firebase
-•	 Tools and IDE Knowledge: CodeBlocks, Netbeans, Xammp, Google Colab, Visual Studio Code
+- •	 Programming Languages: C/C++, Java, Python, SQL, HTML, CSS,  JavaScript, Maching Learning
+- •	 Areas of Interests: Algorithms, Data Structure, Database,  PHP, Bootstrap, Web Designing
+- •	 Database Knowledge: SQL, MySQL, Firebase
+- •	 Tools and IDE Knowledge: CodeBlocks, Netbeans, Xammp, Google Colab, Visual Studio Code
 # Thesis & Academic Projects
 
 ## Thesis:
-•	Deep Learning Based Approach To Detect Potato Leaf Disease (CNN, VGG19, EfficientNetB0, ResNet50)
-•	Email Spam Classification (SVM, NaiveBayes, Logistic Regression, KNN Decision tree
+- •	Deep Learning Based Approach To Detect Potato Leaf Disease (CNN, VGG19, EfficientNetB0, ResNet50)
+- •	Email Spam Classification (SVM, NaiveBayes, Logistic Regression, KNN Decision tree
      
 ## Projects:
 •	Email Spam Classification Using Bangla Dataset (Maching Learning Based)
