@@ -1,18 +1,51 @@
 # Hi there 👋, 
 ## My Name is Mostakim Ara Jaba
 
+A proactive BSc in CSE student at the Hajee Mohammad Danesh Science and Technology University (HSTU) with strong academic achievement with volunteering experience. To pursue a professional career where my skills and creativity can utilize in maximizing institution profit while providing career advancement opportunities.
+
+# Education 
+- ✅ BSc in Computer Science & Engineering (CSE)  ............................................ 2024                                  
+      Hajee Mohammad Danesh Science and Technology, Dinajpur
+      CGPA: 3.619 Out of 4.00
+  
+- ✅ HSC  .................................................................................... 2016
+      Cantonment Public School and College, Rangpur
+      Group: Science
+      GPA: 5.00 Out of 5.00
+	
+- ✅ SSC   ..................................................................................  2014
+      Dinajpur Govt. Girls High School, Dinajpur
+      Group: Science
+      GPA: 5.00 Out of 5.00
+
+# IT Skills
+•	 Programming Languages: C/C++, Java, Python, SQL, HTML, CSS,  JavaScript, Maching Learning
+•	 Areas of Interests: Algorithms, Data Structure, Database,  PHP, Bootstrap, Web Designing
+•	 Database Knowledge: SQL, MySQL, Firebase
+•	 Tools and IDE Knowledge: CodeBlocks, Netbeans, Xammp, Google Colab, Visual Studio Code
+# Thesis & Academic Projects
+
+## Thesis:
+•	Deep Learning Based Approach To Detect Potato Leaf Disease (CNN, VGG19, EfficientNetB0, ResNet50)
+•	Email Spam Classification (SVM, NaiveBayes, Logistic Regression, KNN Decision tree
+     
+## Projects:
+•	Email Spam Classification Using Bangla Dataset (Maching Learning Based)
+•	Online Booking & Maintaining System (Web Based)	•	BMI Calculator (Java)
+•	Student Information & Maintaining System (Java)
+•	Wireless Notice Board (IOT)
+
+# Volunteering
+•	Class Representative (CR) of CSE Department & Assistant IT Secretary at CSE club
+•	Associate member at HSTU Model United Nations Association
+•	Works at Co-convener at BASIS Student’s Forum HSTU chapter
+
+# Achievements
+•	Got Board Scholarship in Class 8 (Eight) 
+•	Got Board Scholarship in HSC 
 
 Contact Information:
 - ✅ Gmail: mostakimarajaba@gmaill.com
-- ✅ Portfolio: https://webliftpro.com/
 - ✅ Phone: +8801785234519
-- ✅ Linkedin: https://www.linkedin.com/in/
+- ✅ Linkedin: [https://www.linkedin.com/in/mostakim-ara-jaba](https://www.linkedin.com/in/mostakim-ara-jaba)
 - ✅ Facebook: [https://www.facebook.com/mostakimara.jeba](https://www.facebook.com/mostakimara.jeba)
-
-Skills: HTML / CSS / Bootstrap / JavaScript / PHP / WordPress etc.
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/confidencerakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-rakib-hossain-070991217/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rakib.hossain.1671897/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developerrk.com/)  
-
