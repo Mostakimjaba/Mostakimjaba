@@ -1,5 +1,3 @@
-![I am a Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEm5NaLiQaBqA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693913189801?e=1743033600&v=beta&t=1fqbOSSjTpYlbusnzc4pHJP-R9CPzxWP5R8Arb7P6ow)
-
 # Hi there 👋, 
 ## My Name is Mostakim Ara Jaba
 ### I am a Web Developer
@@ -20,11 +18,11 @@ Featured Services:
  I like to code full and fresh and this is my power. Choosing me will ensure that you are satisfied with the results.👨‍💻👨‍💻👨‍💻
 
 Contact Information:
-- ✅ Gmail: confidencerakib@gmaill.com
-- ✅ Portfolio: https://developerrk.com/
-- ✅ Phone: +8801773879035
-- ✅ Linkedin: https://www.linkedin.com/in/md-rakib-hossain-070991217/
-- ✅ Facebook: https://www.facebook.com/rakib.hossain.1671897/
+- ✅ Gmail: mostakimarajaba@gmaill.com
+- ✅ Portfolio: https://webliftpro.com/
+- ✅ Phone: +8801785234519
+- ✅ Linkedin: https://www.linkedin.com/in/
+- ✅ Facebook: https://www.facebook.com/
 
 Skills: HTML / CSS / Bootstrap / JavaScript / PHP / WordPress etc.
 
