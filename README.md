@@ -4,19 +4,19 @@
 A proactive BSc in CSE student at the Hajee Mohammad Danesh Science and Technology University (HSTU) with strong academic achievement with volunteering experience. To pursue a professional career where my skills and creativity can utilize in maximizing institution profit while providing career advancement opportunities.
 
 # Education 
-✅ BSc in Computer Science & Engineering (CSE)  ............................................ 2024 <br>                                 
-    Hajee Mohammad Danesh Science and Technology, Dinajpur <br>
-    CGPA: 3.619 Out of 4.00
+✅ **BSc in Computer Science & Engineering (CSE)  ............................................ 2024** <br>  
+    &nbsp;&nbsp;&nbsp;Hajee Mohammad Danesh Science and Technology, Dinajpur <br>
+    &nbsp;&nbsp;&nbsp;CGPA: 3.619 Out of 4.00
   
-✅ HSC  .................................................................................... 2016 <br>
-    Cantonment Public School and College, Rangpur <br> 
-    Group: Science <br>
-    GPA: 5.00 Out of 5.00<br>
+✅ **HSC  .................................................................................... 2016** <br>
+    &nbsp;&nbsp;&nbsp;Cantonment Public School and College, Rangpur <br> 
+    &nbsp;&nbsp;&nbsp;Group: Science <br>
+    &nbsp;&nbsp;&nbsp;GPA: 5.00 Out of 5.00<br>
 	
-✅ SSC   ..................................................................................  2014 <br>
-    Dinajpur Govt. Girls High School, Dinajpur<br>
-    Group: Science<br>
-    GPA: 5.00 Out of 5.00
+✅ **SSC   ..................................................................................  2014** <br>
+    &nbsp;&nbsp;&nbsp;Dinajpur Govt. Girls High School, Dinajpur<br>
+    &nbsp;&nbsp;&nbsp;Group: Science<br>
+    &nbsp;&nbsp;&nbsp;GPA: 5.00 Out of 5.00
 
 # IT Skills
 - 	 Programming Languages: C/C++, Java, Python, SQL, HTML, CSS,  JavaScript, Maching Learning
